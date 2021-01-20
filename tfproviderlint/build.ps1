@@ -1,0 +1,1 @@
+docker build -t tfproviderlint:nanoserver-1809 .
